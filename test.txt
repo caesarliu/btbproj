@@ -1,0 +1,13 @@
+Product Name: milk
+Keyword: food
+Category:
+Description: good milk
+Trade Terms: CFR, FOB
+Payment Terms: D/P, L/C
+Min Order Unit: Bags
+Unit Price Unit: Bag
+Price: 100
+Min Order: 10
+Unit Price:  100
+Price Valid From: 2012.1
+Price Valid To: 2012.12
